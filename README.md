@@ -1,0 +1,1 @@
+# cordova-geofencing-plugin
